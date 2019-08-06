@@ -947,7 +947,12 @@
     * 体验文章：
     * 拓展案例：
     * 实际应用案例：
-
+    
+* l0w0z0:1个积分，贡献点：
+    * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-518614645)
+    * 体验文章：
+    * 拓展案例：
+    * 实际应用案例：
      
 
 <B>共计135位参与者</B>
